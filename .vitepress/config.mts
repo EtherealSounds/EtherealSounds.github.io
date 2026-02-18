@@ -40,7 +40,7 @@ export default defineConfig({
     },
     lastUpdated: true,
     themeConfig: {
-        logo: "/logo.jpg",
+        logo: "/logo.png",
         // nav: [
         //     {text: "主页", link: "/"},
         //     {text: "使用", link: "/start"},
