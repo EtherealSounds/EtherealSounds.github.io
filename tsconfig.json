@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "bundler",   // 推荐，适用于 Vite/VitePress 这类打包工具
+    // 或者 "node16"/"nodenext"（更接近 Node.js 的 ESM 解析）
+    "module": "ESNext",              // 与 moduleResolution 配合，确保模块格式一致
+    "target": "ES2020",              // 根据项目需求调整
+    // 其他已有配置...
+  }
+}
